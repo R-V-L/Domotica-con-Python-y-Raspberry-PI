@@ -3,6 +3,11 @@
 Proyecto final para clase de metodos numericos, ingenieria Mecatronica.  
 El proyecto fue escrito enteramente en Python a lo largo de aproximadamente 2 semanas, en las que se cambiaron multiples cosas (inicialmente en lugar de notificaciones por medio de Telegram se iba a agregar una bitacora en Google Sheets, la interfaz se habia escrito en un principio en HTML y Javascript, se habia creado un API para manipular los LED, el cual fue eliminado al reescribir la interfaz en Tkinter, etc).
 
+## Imagenes
+
+![01](img/01.jpg)
+![02](img/02.jpg)
+
 ## Caracteristicas
 * Acceso mediante tag RFID
 * Controles de apagado y encendido por medio de pantalla tactil
@@ -60,10 +65,6 @@ startx /usr/bin/python3 "/root/Proyecto/main.py"
 ```
 (el path puede cambiar, ajustar dependiendo donde se haya clonado el proyecto).  
 Tambien es recomendable deshabilitar el cursor para que la interfaz se vea mas limpia, esto se hace agregando el parametro -nocursor a startx.
-
-## Imagenes
-
-Pendiente..
 
 ## Licencia
 [MIT License](https://choosealicense.com/licenses/mit/)
