@@ -3,10 +3,12 @@
 Proyecto final para clase de metodos numericos, ingenieria Mecatronica.  
 El proyecto fue escrito enteramente en Python a lo largo de aproximadamente 2 semanas, en las que se cambiaron multiples cosas (inicialmente en lugar de notificaciones por medio de Telegram se iba a agregar una bitacora en Google Sheets, la interfaz se habia escrito en un principio en HTML y Javascript, se habia creado un API para manipular los LED, el cual fue eliminado al reescribir la interfaz en Tkinter, etc).
 
-## Imagenes
+## Media
 
 ![01](img/01.jpg)
 ![02](img/02.jpg)
+https://user-images.githubusercontent.com/16631910/184613830-6b7e7edc-356c-4eca-9aeb-b198a2485ec7.mp4
+
 
 ## Caracteristicas
 * Acceso mediante tag RFID
